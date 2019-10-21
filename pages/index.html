@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>Get the Foodies!</title>
+    <link rel="stylesheet" media="screen" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+  </head>
+  <body>
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3">Get the Foodies!</h1>
+        <p>
+          "Where should we eat?" 
+          "I don't know, let's Yelp the restaurants around the area!"
+          <br>
+          <br>
+          This kind of dialogue happens everywhere all the time nowadays.
+          People care about reviews on food, service, and location.
+          But what are the things people talk about the restaurant? 
+          Here, the website provides an low cost and efficient approach to understand
+          the reviews within seconds!
+          <br>
+          <br>
+          Please insert the Yelp link for the restaurant here to understand
+          the things people like or hate about your restaurant!
+          
+
+        </p>
+        <p>
+          <form action="/get_results" method="post">
+            <br>
+            <br>
+            Yelp URL: <input type="url" name="yelp_url">
+            <br>
+            <br>
+            <input type="submit" class="btn btn-primary btn-lg" value="Get Result">
+          </form>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
