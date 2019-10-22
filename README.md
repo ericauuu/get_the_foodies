@@ -23,6 +23,7 @@ The power of reviews motivates me to build the web application for business owne
 * Selenium - version 3.141.0
 * Shap - version 0.30.0
 * Matplotlib - version 3.1.1
+Full list can be found in requirements.txt
 
 ## Demo
 click [link](https://get-the-foodies.herokuapp.com/) to view demo web app 
