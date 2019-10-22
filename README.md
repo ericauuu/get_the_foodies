@@ -1,4 +1,4 @@
-# Get_the_Foodies_demo
+# Get the Foodies (demo)
 > Get the Foodies is the web application for business owners, who have their business be listed on Yelp and have at least 10 pages of reviews, to understand what their customers like or dislike about the business. The sentiment analysis helps business owners understand what terms are associated with positive or negative reviews in order to strategize business operation plan for business purposes. 
 
 ## Table of contents
@@ -22,6 +22,7 @@ The power of reviews motivates me to build the web application for business owne
 * Scikit-learn - version 0.21.3
 * Selenium - version 3.141.0
 * Shap - version 0.30.0
+* Matplotlib - version 3.1.1
 
 ## Demo
 click [link](https://get-the-foodies.herokuapp.com/) to view demo web app 
