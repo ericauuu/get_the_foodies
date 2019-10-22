@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Demo](#demo)
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
@@ -23,8 +23,8 @@ The power of reviews motivates me to build the web application for business owne
 * Tech 2 - version 2.0
 * Tech 3 - version 3.0
 
-## Setup
-Describe how to install / setup your local environement / click [link](https://get-the-foodies.herokuapp.com/) to demo version
+## Demo
+click [link](https://get-the-foodies.herokuapp.com/) to view demo web app 
 
 
 ## Features
