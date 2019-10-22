@@ -4,8 +4,8 @@
     <link rel="stylesheet" media="screen" href="{{ url_for('static', filename='bootstrap.min.css') }}">
   </head>
   <body>
-    <div class="jumbotron">
-      <div class="container">
+    <div class="jumbotron" style="background-image: url('{{ url_for('static', filename = 'background.png')}}');">
+      <div class="container" style="background: rgba(255, 255, 255, 0.7)">
         <h1 class="display-3">Get the Foodies!</h1>
         <p>
           "Where should we eat?" 

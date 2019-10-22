@@ -4,19 +4,21 @@
     <title>Get the Foodies!</title>
     <link rel="stylesheet" media="screen" href="{{ url_for('static', filename='bootstrap.min.css') }}">
 </head>
-<body>
-    Result for the restaurant: {{restaurant}}
-    <br>
-    <br>
-    {{table|safe}}
-    <br>
-    <br>
-    {{f1}}
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <a href="/">Try another restaurant</a>
-</body>
-</html>
+<div class="jumbotron" style="background-image: url('{{ url_for('static', filename = 'results_bg.png')}}');">
+    <div class="container" style="background: rgba(255, 255, 255, 0.88)">
+    <body>
+        Result for the restaurant: {{restaurant}}
+        <br>
+        <br>
+        {{table|safe}}
+        <br>
+        <br>
+        {{f1}}
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <a href="/">Try another restaurant</a>
+    </body>
+    </html>
