@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-The crowd-sourced review forum has become a crutial part of people's lives when looking for recommendations and solutions. According to the study done in 2018, 80% of customers have lack of trust in business when the overall ratings are lower than 4 stars(5 star scale). As technology makes access to web ratings easily, more than 60% of customers read about reviews on interested business before visiting the business or requesting a service. 
+The crowd-sourced review forum has become a crutial part of people's lives when looking for recommendations and solutions. According to the [study](https://www.reviewtrackers.com/reports/online-reviews-survey/) done in 2018, 80% of customers have lack of trust in business when the overall ratings are lower than 4 stars(5 star scale). As technology makes access to web ratings easily, more than 60% of customers read about reviews on interested business before visiting the business or requesting a service. 
 
 The power of reviews motivates me to build the web application for business owner to know what their customers want through their reviews. The web app gives business owner the opportunity to learn what the most recent 200 reviews have talked about his/her business. It is designed to help business owners efficiently locate the issues raised by customers for improvements.
 
@@ -19,9 +19,9 @@ The power of reviews motivates me to build the web application for business owne
 ![demo web app screenshot](./static/image/demo_app_img.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Scikit-learn - version 0.21.3
+* Selenium - version 3.141.0
+* Shap - version 0.30.0
 
 ## Demo
 click [link](https://get-the-foodies.herokuapp.com/) to view demo web app 
