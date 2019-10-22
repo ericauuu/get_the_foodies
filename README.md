@@ -27,7 +27,6 @@ The power of reviews motivates me to build the web application for business owne
 ## Demo
 click [link](https://get-the-foodies.herokuapp.com/) to view demo web app 
 
-
 ## Features
 List of features ready:
 * Show 10 most relevant words associated with positive reviews based on its Shapley value 
